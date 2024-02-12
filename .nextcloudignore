@@ -22,6 +22,7 @@
 /node_modules
 /package*
 /psalm.xml
+/renovate.json
 /screenshots
 /src
 /tests
